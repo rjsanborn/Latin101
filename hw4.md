@@ -1,3 +1,5 @@
+**+2 Satisfactory**
+
 What are the three genders of Latin nouns? **The three genders of Latin nouns are: Male, Female, and Neuter**
 
 What are the three pieces of information in a Latin dictionary entry for a noun? **The three pieces of information in a Latin dictionary entry for a noun are: The nominative case, the genitive case, and the gender**
@@ -14,7 +16,7 @@ deus amoris - amoris: male, singular, genitive; deus: male, singular, nominative
 
 amor deorum - amor: male, singular, nominative; deorum: male, plural, genitive
 
-Herculis canis - Herculis: male, singular, genitive; canis: male, nominative, singular
+Herculis canis - Herculis: male, singular, genitive; canis: male, nominative, singular ⚠️ **OR feminine nominative singular**
 
 nomen dei - nomen: neuter, singular, nominative; dei: male, singular, genitive
 
