@@ -18,6 +18,6 @@ Herculis canis - Herculis: male, singular, genitive; canis: male, nominative, si
 
 nomen dei - nomen: neuter, singular, nominative; dei: male, singular, genitive
 
-filii deorum - **filii:** male, plural, nominative; deorum: male, plural, genitive
+filii deorum - filii: male, plural, nominative; deorum: male, plural, genitive
 
 nomina filiorum - nomina: neuter, plural, nominative; filiorum: male, plural, genitive
