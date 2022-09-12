@@ -1,8 +1,11 @@
+**+1 Needs revisions**
+
+
 **3rd person singular of amo**
 
 perfect active- amaui
 
-perfect passive- amatus
+perfect passive- amatus❌
 
 imperfect active- amabat
 
@@ -12,21 +15,21 @@ imperfect passive- amabatur
 
 perfect active- audiui
 
-perfect passive- auditus 
+perfect passive- auditus ❌
 
-imperfect active- audibant
+imperfect active- audibant❌
 
-imperfect passive- audibantur
+imperfect passive- audibantur❌
 
 **3rd person singular of capio**
 
 perfect active- cepi
 
-perfect passive- captus
+perfect passive- captus❌
 
-imperfect active- capebat
+imperfect active- capebat❌
 
-imperfect passive- capebatur
+imperfect passive- capebatur❌
 
 uenerunt - 3rd person plural, perfect active, indicative, uenio
 
