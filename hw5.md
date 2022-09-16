@@ -1,4 +1,4 @@
-**Meleager was the son of Oineus, king of Calydon.** Meleager Oinei filius, Caludonis rex
+**Meleager was the son of Oineus, king of Calydon.** Meleager filius erat Oinei, regis Caludonis
 
 **His mother was Althaea.** Althaea mater eius
 
