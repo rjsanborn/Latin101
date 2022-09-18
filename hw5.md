@@ -1,11 +1,13 @@
-**Meleager was the son of Oineus, king of Calydon.** Meleager filius erat Oinei, regis Caludonis
+**+1 Needs revisions**
 
-**His mother was Althaea.** Althaea mater eius
+**Meleager was the son of Oineus, king of Calydon.** Meleager filius erat Oinei, regis Caludonis✅
 
-**That woman was the daughter of Thestius.** ille femina Thestii filia
+**His mother was Althaea.** Althaea mater eius❌
 
-**The brothers of Althaea were killed by** Meleager. Alathea fratres interfectus sunt
+**That woman was the daughter of Thestius.** ille femina Thestii filia❌
 
-**A large number of his sisters** were changed into birds, but not **the beautiful Deianira.** magna numerus sorores is; formosa Deianira ipsa
+**The brothers of Althaea were killed by** Meleager. Alathea fratres interfectus sunt❌
 
-**She was the daughter of Dexamenus**, according to some stories, but **the daughter of Oineus** in other versions. ea Dexameni filia; Oinei filia
+**A large number of his sisters** were changed into birds, but not **the beautiful Deianira.** magna numerus sorores is; formosa Deianira ipsa❌
+
+**She was the daughter of Dexamenus**, according to some stories, but **the daughter of Oineus** in other versions. ea Dexameni filia; Oinei filia✅
