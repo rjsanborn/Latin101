@@ -1,6 +1,6 @@
 Niobe was the wife of Amphion. **Nioba Amphionis uxor**
 
-Amphion and Niobe had many children. **Amphion et Nioba liberi multum habet**
+Amphion and Niobe had many children. **Amphion et Nioba liberi multum habebant**
 
 Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto. **Latona multa monere, sed Nioba Latonae non auditus est**
 
