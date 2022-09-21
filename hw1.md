@@ -6,6 +6,6 @@ The first and third principal parts are finite verb forms. The first principal p
 
 Interfeci is the same when prefixing inter- to a form of facio. Other than that, facio becomes interficio, facere becomes interficere, and factus becomes interfectus.
 
-Two verbs belonging to the fourth conjugation include ventus and amatus.❌
+Two verbs belonging to the fourth conjugation include audire and venire.
 
 The changes in capio and facio's principal parts are similar in that they follow the same spelling with the only exception being their root (capio using "cap" and facio using "fac")❌
