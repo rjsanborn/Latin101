@@ -5,7 +5,7 @@
 
 perfect active- amaui
 
-perfect passive- amatus❌
+perfect passive- amatus❌ Correction: amatus est
 
 imperfect active- amabat
 
@@ -15,7 +15,7 @@ imperfect passive- amabatur
 
 perfect active- audiui
 
-perfect passive- auditus ❌
+perfect passive- auditus ❌ Correction: auditus sunt
 
 imperfect active- audibant❌
 
@@ -25,9 +25,9 @@ imperfect passive- audibantur❌
 
 perfect active- cepi
 
-perfect passive- captus❌
+perfect passive- captus❌ Correction: captus est
 
-imperfect active- capebat❌
+imperfect active- capebat❌ 
 
 imperfect passive- capebatur❌
 
