@@ -17,9 +17,9 @@ perfect active- audiui
 
 perfect passive- auditus ❌ Correction: auditus sunt
 
-imperfect active- audibant❌
+imperfect active- audibant❌ Correction: audiebant
 
-imperfect passive- audibantur❌
+imperfect passive- audibantur❌ Correction: audiebantur
 
 **3rd person singular of capio**
 
@@ -27,9 +27,9 @@ perfect active- cepi
 
 perfect passive- captus❌ Correction: captus est
 
-imperfect active- capebat❌ 
+imperfect active- capebat❌ Correciton: capiebat
 
-imperfect passive- capebatur❌
+imperfect passive- capebatur❌ Correciton: capiebatur
 
 uenerunt - 3rd person plural, perfect active, indicative, uenio
 
