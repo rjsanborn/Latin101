@@ -1,9 +1,11 @@
-Niobe was the wife of Amphion. **Nioba Amphionis uxor**
+**+1 Needs revisions**
 
-Amphion and Niobe had many children. **Amphion et Nioba liberos multum habebant**
+Niobe was the wife of Amphion. **Nioba Amphionis uxor**❌
 
-Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto. **Latona Niobam monebat, sed Nioba Latonae non auditus est**
+Amphion and Niobe had many children. **Amphion et Nioba liberos multum habebant**❌
 
-Apollo, the son of the latter woman, killed the sons of the former woman. **Apollo, illa feminae filius, prioris feminae pueri interfectus**
+Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto. **Latona Niobam monebat, sed Nioba Latonae non auditus est** ❌
 
-His sister Diana killed her daughters. **Diana soris is puellae interfecti ea**
+Apollo, the son of the latter woman, killed the sons of the former woman. **Apollo, illa feminae filius, prioris feminae pueri interfectus**❌
+
+His sister Diana killed her daughters. **Diana soris is puellae interfecti ea**❌
