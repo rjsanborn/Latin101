@@ -45,21 +45,21 @@ Complete the following declension of the Latin phrase “the former-mentioned sh
 
 Case|Masculine|Feminine|Neuter|
 ----|---------|--------|------|
-Nominative|illa nauis|
-Genitive	|illus nauis|
-Dative	 	|illi naui|
-Accusative|illam nauem|
-Ablative	|illa naui|
+Nominative|---|illa nauis|
+Genitive	|---|illus nauis|
+Dative	 	|---|illi naui|
+Accusative|---|illam nauem|
+Ablative	|---|illa naui|
 
 **Plural**
 
 Case|Masculine|Feminine|Neuter|
 ----|---------|--------|------|
-Nominative|illae naues|
-Genitive	|illarum nauium|
-Dative	 	|illis nauibus|
-Accusative|illas naues|
-Ablative	|illis nauibus|
+Nominative|---|illae naues|
+Genitive	|---|illarum nauium|
+Dative	 	|---|illis nauibus|
+Accusative|---|illas naues|
+Ablative	|---|illis nauibus|
 
 Verb Forms
 ---
