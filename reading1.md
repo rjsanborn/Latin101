@@ -19,4 +19,4 @@ patrem Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**
 
 (9) What is the antecedent of eam?
 
-**Translation:** Antaeus, son of the earth, was killed in Libya by Hercules. The latter (Antaeus) was killing the guests; He killed them while struggling. Cygnus, son of Mars, kills with arms raised. Mars comes to kill his son with arms near, but Jupiter sends lightning in between them. Hesione put the whale next to Troy. It struck him down; Laomedon, father of Hesiones, because of her (Hesiones) does not return, an arrow kills him. 
+**Translation:** Antaeus, son of the earth, was killed in Libya by Hercules. The latter (Antaeus) was killing the guests; He killed them while struggling. Cygnus, son of Mars, kills with arms raised. Mars comes to kill his son with arms near, but Jupiter sends lightning in between them. Hesione put the whale next to Troy. It struck him down; Laomedon, father of Hesiones, does not return because of her (Hesiones), an arrow killed him. 
