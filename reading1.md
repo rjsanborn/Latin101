@@ -13,10 +13,10 @@ patrem Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**
 
 (6) Explain the construction cum eo? **cum eo means "with him" or with it"**
 
-(7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
+(7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence? **Fulmen is a 3rd declension noun in the accusitive form, acting as the direct object of the sentence**
 
-(8) Fully identify the form of apposita est.
+(8) Fully identify the form of apposita est. **apposita est is 3rd person, singular, perfect passive, indicative.**
 
-(9) What is the antecedent of eam?
+(9) What is the antecedent of eam? **The antecedent of eam is Hesiones
 
 **Translation:** Antaeus, son of the earth, was killed in Libya by Hercules. The latter (Antaeus) was killing the guests; He killed them while struggling. Cygnus, son of Mars, kills with arms raised. Mars comes to kill his son with arms near, but Jupiter sends lightning in between them. Hesione put the whale next to Troy. It struck him down; Laomedon, father of Hesiones, does not return because of her (Hesiones), an arrow killed him. 
