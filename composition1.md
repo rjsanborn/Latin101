@@ -1,5 +1,5 @@
 Prometheus ignis deorum cepit. 
 Ille homines ignis dedit. 
-Deorum ab Prometheo misit quod facti. 
+Deorum ab is misit quod facti. 
 Prometheum cor aquila impetebatur.
 Hercules aquilae cum sagitta interfectus est.
