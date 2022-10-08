@@ -1,4 +1,6 @@
-**Identifying Verbs**
+**+1 Nice work!  Nearly perfect on first draft.**
+
+**Identifying Verbs** ✅
 
 occidit - third, singular, perfect, indicative, active
 
@@ -12,7 +14,7 @@ contendit - third, singular, perfect, indicative, active
 
 misit - third, singular, perfect, indicative, active
 
-Noun-adjective agreement
+Noun-adjective agreement ✅
 ---
 
 Complete a full declension of the phrase “the previous god” (prior deus).
@@ -46,7 +48,7 @@ Complete the following declension of the Latin phrase “the former-mentioned sh
 Case|Masculine|Feminine|Neuter|
 ----|---------|--------|------|
 Nominative|---|illa nauis|
-Genitive	|---|illus nauis|
+Genitive	|---|illus nauis❌|
 Dative	 	|---|illi naui|
 Accusative|---|illam nauem|
 Ablative	|---|illa naui|
@@ -61,7 +63,7 @@ Dative	 	|---|illis nauibus|
 Accusative|---|illas naues|
 Ablative	|---|illis nauibus|
 
-Verb Forms
+Verb Forms ✅
 ---
 **Complete the following synopsis of the third person singular of capio in the indicative mood. Assume a feminine subject.**
 
