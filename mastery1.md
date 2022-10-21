@@ -48,7 +48,7 @@ Complete the following declension of the Latin phrase “the former-mentioned sh
 Case|Masculine|Feminine|Neuter|
 ----|---------|--------|------|
 Nominative|---|illa nauis|
-Genitive	|---|illus nauis❌|
+Genitive	|---|illius nauis❌|
 Dative	 	|---|illi naui|
 Accusative|---|illam nauem|
 Ablative	|---|illa naui|
