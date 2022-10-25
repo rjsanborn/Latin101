@@ -1,4 +1,5 @@
 **+1 Needs revisions**
+**In translation, probably better to keep active voice where Latin uses active.**
 
 `Antaeum`, terrae filium, in Libyā *Hercules* **occidit**. *hic* `hospites` **interficiebat**; hunc luctando ille 
 **necauit**. `Cygnum`, *Martis* filium, armis **occidit**. `Mars` **uenit** et armis propter *filium* **contendit** cum eo, 
@@ -11,7 +12,7 @@ patrem Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**
 
 (4) What is the antecedent of hic? **Antaeus is the antecedent of hic** ✅
 
-(5) What case is armis? **armis is in the genitive singular case** ❌ Correction: ablative case
+(5) What case is armis? **armis is in the genitive singular case** ❌ Correction: ablative case  ✅
 
 (6) Explain the construction cum eo? **cum eo means "with him" or with it". In the sentence, since Hercules is the one being fought with, it is translated as "with him" and is constructed as such because Hercules is the object of the sentence.** *Yes, that's a good translation: can you explain the construction for me?*
 
@@ -27,4 +28,6 @@ Translation Corrections:
 
 **Cygnus, son of Mars, was killed (by Hercules) with a weapon. Mars came and fought with him (Hercules) on account of his son, but Jupiter sent lightning in between them.**
 
-**Hesione was put next to a whale in Troy. Hercules killed the whale. Hercules killed Laomedon, father of Hesiones, with arrows.**
+**Hesione was put next to a whale in Troy. Hercules killed the whale. Hercules killed Laomedon, father of Hesiones, with arrows.** 
+
+**Need  one more clause here? (The one starting with "quod" in Latin).**
