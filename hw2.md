@@ -1,10 +1,10 @@
-**+1 Needs 1 correction.**
+**+2 Satisfactory.**
 
 Hercules **loved** Deianira. **amauit**
 
 Deianira **was loved** by Hercules. **amata est**
 
-Juno **sent** serpents to kill Hercules. **misi** ❌ Correction: **misit**
+Juno **sent** serpents to kill Hercules. **misi** ❌ Correction: **misit** ✅
 
 The lion of Nemea **was killed by Hercules**. (Lion is masculine in Latin.) **necatus est**
 
