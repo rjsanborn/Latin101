@@ -1,4 +1,4 @@
-**+1 Nice work!  Nearly perfect on first draft.**
+**+2 Satisfactory**
 
 **Identifying Verbs** ✅
 
@@ -48,7 +48,7 @@ Complete the following declension of the Latin phrase “the former-mentioned sh
 Case|Masculine|Feminine|Neuter|
 ----|---------|--------|------|
 Nominative|---|illa nauis|
-Genitive	|---|illius nauis❌|
+Genitive	|---|illius nauis❌| ✅
 Dative	 	|---|illi naui|
 Accusative|---|illam nauem|
 Ablative	|---|illa naui|
