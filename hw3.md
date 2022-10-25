@@ -25,11 +25,11 @@ imperfect passive- audibantur❌ Correction: audiebantur ✅
 
 perfect active- cepi
 
-perfect passive- captus❌ Correction: captus est
+perfect passive- captus❌ Correction: captus est ✅
 
-imperfect active- capebat❌ Correciton: capiebat
+imperfect active- capebat❌ Correciton: capiebat ✅
 
-imperfect passive- capebatur❌ Correciton: capiebatur
+imperfect passive- capebatur❌ Correciton: capiebatur ✅
 
 uenerunt - 3rd person plural, perfect active, indicative, uenio
 
