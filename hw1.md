@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 A regular Latin verb has 4 principal parts: Present active indicative, Infinitive, Perfect active indicative, and participle.
 
@@ -8,4 +8,4 @@ Interfeci is the same when prefixing inter- to a form of facio. Other than that,
 
 Two verbs belonging to the fourth conjugation include audire and venire.
 
-The changes in capio and facio's principal parts are similar in that they follow the same spelling with the only exception being their root (capio using "cap" and facio using "fac")❌ The principal parts of the verbs capio and facio share identical endings in the principal parts
+The changes in capio and facio's principal parts are similar in that they follow the same spelling with the only exception being their root (capio using "cap" and facio using "fac") The principal parts of the verbs capio and facio share identical endings in the principal parts
