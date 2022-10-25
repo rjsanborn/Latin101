@@ -5,7 +5,7 @@
 
 perfect active- amaui
 
-perfect passive- amatus❌ Correction: amatus est
+perfect passive- amatus❌ Correction: amatus est ✅
 
 imperfect active- amabat
 
@@ -13,13 +13,13 @@ imperfect passive- amabatur
 
 **3rd person plural of audio**
 
-perfect active- audiui
+perfect active- audiui ❌ 
 
-perfect passive- auditus ❌ Correction: auditus sunt
+perfect passive- auditus ❌ Correction: audit sunt NOM PL
 
-imperfect active- audibant❌ Correction: audiebant
+imperfect active- audibant❌ Correction: audiebant ✅
 
-imperfect passive- audibantur❌ Correction: audiebantur
+imperfect passive- audibantur❌ Correction: audiebantur ✅
 
 **3rd person singular of capio**
 
