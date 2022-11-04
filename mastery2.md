@@ -1,19 +1,42 @@
-Cydippe sent the oxen **into the fields.** - 
+Complete a full declension of the phrase “this foolish son” (hic imprudens filius)
 
-They did not return **with her sons.** - cum filii eius
+Singular
+---
+|Case|Form|
+|----|----|
+|Nominative|hic imprudens filius|
+|Genitive|huius imprudentis filii|
+|Dative|huic imprudenti filio|
+|Accusitive|hunc imprudentem filium|
+|Ablative|hoc imprudente filio|
 
-**At that time**, the festival was due to begin. - tempore eo
+Plural
+---
+|Case|Form|
+|----|----|
+|Nominative|hi imprudentes filii|
+|Genitive|horum imprudentium filiorum|
+|Dative|his imprudentibus filiis|
+|Accusitive|hos imprudentes filios|
+|Ablative|his imprudentibus filiis|
 
-Cydippe **was not able to go** to the festival. - non possum ire
 
-Cleops and Bitias **wanted to bring** their mother to the festival. - 
+Cydippe sent the oxen **into the fields.** - in agros
 
-They yoked **themselves** to a wagon. - 
+They did not return **with her sons.** - cum eius filis
 
-They pulled the wagon **for many hours.** - multam horam
+**At that time**, the festival was due to begin. - temporum eo
 
-When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. - ab filiis
+Cydippe **was not able to go** to the festival. - non potessebat iri
 
-Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. - 
+Cleops and Bitias **wanted to bring** their mother to the festival. - adduxi desideratus
 
-**That night**, they fell asleep and never woke up. - nox
+They yoked **themselves** to a wagon. - se
+
+They pulled the wagon **for many hours.** - multas horas
+
+When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. - ab eius filiis
+
+Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. - sibi et eius filii 
+
+**That night**, they fell asleep and never woke up. - ea nocte
