@@ -1,6 +1,3 @@
-Cydippe misit boves in agros, sed illi non ad tempus
-sacra duci debebant, et 
+(1) Cydippe misit boves in agros, sed illi non ad tempus redire.
 
-illa nocte - "that night"
-
-precata est
+(2) Sacra duci debebant ad tempus, et sacerdotis debebatur adesse apud templum, sed Cydippe non potest do in uiam se.
