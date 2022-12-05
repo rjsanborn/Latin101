@@ -1,3 +1,5 @@
+**+1 Missing part B.**
+
 A. Grammatical Analysis
 ---
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
@@ -9,7 +11,7 @@ ob id nōmen *“Pandōra”* ei **datum est**.
 *Pandōra* ab Iove in coniugium Epimetheō **data est**. 
 Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
 
-B. Grammatical Questions
+B. Grammatical Questions ❌ ⁉️
 ---
 What is the grammatical function of Iapetī fīlius prīmus?
 
@@ -21,9 +23,9 @@ Identify the sentence structure of omnēs deī dōna eī misērunt (linking, tra
 
 Parse data est and indicate what conjugation the verb belongs to.
 
-What type of grammatical construction is ab Iove? Ab means by and Iove is the name of Jupiter in the ablative. Therefore, the phrase means by Jupiter and is referring to the actinon of the sentence (given by Jupiter).
+What type of grammatical construction is ab Iove?
 
-What tense is erat and what are the principle parts of the verb it comes from? Erat is in the imperfect. Its principle parts are sum, esse, and fui
+What tense is erat and what are the principle parts of the verb it comes from?
 
 C. Translation
 ---
@@ -31,8 +33,8 @@ Please translate the passage into idiomatic English
 
 **Translation:** 
 Long ago Prometheus, first son of Iapetus, fashioned men/man out of mud. 
-At the same time Vulcan made women/woman out of mud.
-Minerva gave a spirit to a woman and then sent that gift to everyone.
-On account of that, the name "Pandora" was given.
-Pandora was given in marriage to Epimetheus by Jupiter.
+At the same time Vulcan made women/woman❌ out of mud.
+Minerva gave a spirit to a❌ woman and then sent that gift to everyone.❌
+On account of that, the name "Pandora" was given. ❓
+Pandora was given in marriage to Epimetheus by Jove.
 Their (Pandora and Epimetheus's) daughter Pyrrha, was the first mortal human.
