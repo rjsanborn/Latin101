@@ -1,4 +1,4 @@
-(1) cum non posse troiae potitus
+(1) cum troiam capere non possent decem annos,
 
 (2) acc. subject + infinitive (indirect statement)
 
@@ -8,4 +8,4 @@
 
 (5)
 
-(6)
+(6) ea nocte, ...,..., cum Troiam capere non possent
