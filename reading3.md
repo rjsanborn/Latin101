@@ -4,21 +4,21 @@ Cum Achīvī decem annōs in Troia fuissent, Epeus mirae magnitūdinis equum lig
 
 A. Grammatical Questions
 ---
-Highlight all the finite verbs with two asterisks like this, and the subjects with one asterisk like this.
+1) Highlight all the finite verbs with two asterisks like this, and the subjects with one asterisk like this.
 
-What is the case of decem annōs (line 1) and what use of that case? - Since Annos (meaning years) refers to a duration of time, the noun is in the plural accusative. Since decem is describing years, the word decem is in the genetive. 
+2) What is the case of decem annōs (line 1) and what use of that case? - Since Annos (years) is referring to a duration of time, the noun is in the plural accusative. Since decem is describing years, the word decem is in the genetive. 
 
-What is the person, number, tense, voice, and mood of fuissent (line 1)? Explain its mood. - Fuissent is 3rd person, plural, pluperfect tesne, active, subjunctive. The mood is subjunctive because it is a temporal clause that involves circumstance rather than time.
+3) What is the person, number, tense, voice, and mood of fuissent (line 1)? Explain its mood. - Fuissent is 3rd person, plural, pluperfect tesne, active, subjunctive. The mood is subjunctive because it is a temporal clause that involves circumstance rather than time.
 
-What is the case, number, and gender of mirae magnitūdinis (line 1) and how is it functioning in the sentence? - Mirae Magnitudinis is genitive, singular, and feminine and it functions as a description of the wooden horse.
+4) What is the case, number, and gender of mirae magnitūdinis (line 1) and how is it functioning in the sentence? - Mirae Magnitudinis is genitive, singular, and feminine and it functions as a description of the wooden horse.
 
-What are the person, number, tense, mood, and voice of collecti sunt (line 2)? - collecti sunt is 3rd person, plural, perfect passive, indicative.
+5) What are the person, number, tense, mood, and voice of collecti sunt (line 2)? - collecti sunt is 3rd person, plural, perfect passive, indicative.
 
-What type of clause is cum id Troianī vidērunt (lines 4-5) and what part of speech is cum? - It is a temporal clause and cum is a temporal conjunction.
+6) What type of clause is cum id Troianī vidērunt (lines 4-5) and what part of speech is cum? - It is a temporal clause and cum is a temporal conjunction.
 
-What case is ei in line 6 and what function does it play in the sentence? - Ei is in the dative case and it acts as the indirect object of the sentence.
+7) What case is ei in line 6 and what function does it play in the sentence? - Ei is in the dative case and it acts as the indirect object of the sentence.
 
-What irregular verb does exierunt (line 7) come from? - The irregular verb exierunt comes from eo + prefix ex.
+8) What irregular verb does exierunt (line 7) come from? - The irregular verb exierunt comes from eo + prefix ex.
 
 B. Translate the passage.
 ---
