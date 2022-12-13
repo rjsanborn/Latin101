@@ -33,8 +33,8 @@ Please translate the passage into idiomatic English
 
 **Translation:** 
 Long ago Prometheus, first son of Iapetus, fashioned men/man out of mud. 
-At the same time Vulcan made women/woman❌ out of mud.
-Minerva gave a spirit to a❌ woman and then sent that gift to everyone.❌
-On account of that, the name "Pandora" was given. ❓
+At the same time Vulcan was making a woman out of mud.
+Minerva gave a spirit to the woman and all the gods sent her gifts.
+On account of that, the name "Pandora" was given to her.
 Pandora was given in marriage to Epimetheus by Jove.
 Their (Pandora and Epimetheus's) daughter Pyrrha, was the first mortal human.
